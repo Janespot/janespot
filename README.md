@@ -1,2 +1,2 @@
-# janespot
-my first webpage
+# gh-pages
+my first gh-pages
