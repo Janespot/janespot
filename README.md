@@ -19,3 +19,4 @@ Thank you for visiting my profile :-)
 - MySQL
 - git
 - GitHub
+- C
