@@ -11,3 +11,5 @@ Thank you for visiting my profile :-)
 - PHP
 - SQL
 - MySQL
+- git
+- GitHub
