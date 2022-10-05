@@ -10,7 +10,7 @@ Thank you for visiting my profile :-)
 - BSc. Mathematics and Computer Science(Applied Maths)
 
 ## :hammer_and_wrench: Myskills
-- <img src="https://github.com/devicons/devicon/blob/master/icons/ HTML
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" height="40px" width="40px" /> HTML
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ CSS
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ JavaSript
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ Bash/Shell/Linux
