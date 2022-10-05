@@ -9,15 +9,15 @@ Thank you for visiting my profile :-)
 - Technical University of Mombasa
 - BSc. Mathematics and Computer Science(Applied Maths)
 
-## Myskills
-- HTML
-- CSS
-- JavaSript
-- Bash/Shell/Linux
-- PHP
-- SQL
-- MySQL
-- git
-- GitHub
-- C
+## :hammer_and_wrench: Myskills
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ HTML
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ CSS
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ JavaSript
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ Bash/Shell/Linux
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ PHP
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ SQL
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ MySQL
+- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> git
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ GitHub
+- <img src="https://github.com/devicons/devicon/blob/master/icons/ C
 
