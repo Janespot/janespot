@@ -21,3 +21,9 @@ Thank you for visiting my profile :-)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="MySQL logo" height="30px" width="30px" /> GitHub
 - <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="MySQL logo" height="30px" width="30px" /> C
 
+
+## :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janespot&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot)](https://github.com/anuraghazra/github-readme-stats)
