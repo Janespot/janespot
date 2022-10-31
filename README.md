@@ -20,6 +20,7 @@ Thank you for visiting my profile :-)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="MySQL logo" height="30px" width="30px" /> git
 - <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="MySQL logo" height="30px" width="30px" /> GitHub
 - <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="MySQL logo" height="30px" width="30px" /> C
+- TypeScript
 
 
 ## :fire: My Stats
