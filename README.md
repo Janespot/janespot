@@ -27,4 +27,4 @@ Thank you for visiting my profile :-)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janespot&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&langs_count=5&theme=tokyonight)]()
