@@ -1,13 +1,9 @@
-Hello everyone,
-I'm Janespot. This is my official GitHub account that contains my project repositories.
-I am a web developer and will really appreciate any corrections or assistance with my projects.
-I am ready to collaborate with anyone who is willing to.
-Thank you for visiting my profile :-)
+I am a highly motivated and adaptable full-stack web developer specializing in JavaScript, PHP and their respective frameworks such as React, NextJS, Laravel and CodeIgniter. I have two years of experience in creating and maintaining user-friendly and secure websites. I am passionate about staying up-to-date with latest technology trends and learning continuously to expand my knowledge and skills. I have a strong passion for coding as it involves an endless cycle of problem solving which I enjoy tackling and overcoming.
 
 ## About Me:
-- ALX Student(Fullstack Engineering)
-- Technical University of Mombasa
-- BSc. Mathematics and Computer Science(Applied Maths)
+- Cyber Shujaa Alumni(Digital Forensics)
+- Technical University of Mombasa Alumni
+- BSc. Mathematics and Computer Science(Applied Mathematics Major)
 
 ## :hammer_and_wrench: Myskills
 - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" height="30px" width="30px" /> HTML
