@@ -1,9 +1,16 @@
 I am a highly motivated and adaptable full-stack web developer specializing in JavaScript, PHP and their respective frameworks such as React, NextJS, Laravel and CodeIgniter. I have two years of experience in creating and maintaining user-friendly and secure websites. I am passionate about staying up-to-date with latest technology trends and learning continuously to expand my knowledge and skills. I have a strong passion for coding as it involves an endless cycle of problem solving which I enjoy tackling and overcoming.
 
+
 ## About Me:
 - Cyber Shujaa Alumni(Digital Forensics)
 - Technical University of Mombasa Alumni
 - BSc. Mathematics and Computer Science(Applied Mathematics Major)
+
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/your-profile)
+
 
 ## :hammer_and_wrench: Myskills
 - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" height="30px" width="30px" /> HTML
@@ -21,3 +28,16 @@ I am a highly motivated and adaptable full-stack web developer specializing in J
 
 ## :fire: My Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&langs_count=5&theme=tokyonight)]()
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janespot&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+
+
+## :zap: GitHub Activity
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Janespot&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true)
+
+---
+
+### Fun Fact: 🎉
+I love coding because it allows me to solve real-world problems while continuously learning new skills! Keep coding, keep evolving. 💻
+
+---
