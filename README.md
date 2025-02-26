@@ -1,6 +1,9 @@
 # Hi there! I'm Jane Odhiambo 👋
 
-![Female Developer](https://media.giphy.com/media/xT0GqeRJPyyV7ZmXcm/giphy.gif)
+<div align="center">
+  <img src="coding.gif" alt="Black Female Developer" width="500"/>
+</div>
+
 
 I am a highly motivated and adaptable full-stack web developer specializing in JavaScript, PHP and their respective frameworks such as React, NextJS, Laravel and CodeIgniter. I have two years of experience in creating and maintaining user-friendly and secure websites. I am passionate about staying up-to-date with latest technology trends and learning continuously to expand my knowledge and skills. I have a strong passion for coding as it involves an endless cycle of problem solving which I enjoy tackling and overcoming.
 
