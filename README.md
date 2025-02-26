@@ -1,3 +1,7 @@
+# Hi there! I'm Jane Odhiambo 👋
+
+![Female Developer](https://media.giphy.com/media/xT0GqeRJPyyV7ZmXcm/giphy.gif)
+
 I am a highly motivated and adaptable full-stack web developer specializing in JavaScript, PHP and their respective frameworks such as React, NextJS, Laravel and CodeIgniter. I have two years of experience in creating and maintaining user-friendly and secure websites. I am passionate about staying up-to-date with latest technology trends and learning continuously to expand my knowledge and skills. I have a strong passion for coding as it involves an endless cycle of problem solving which I enjoy tackling and overcoming.
 
 
@@ -8,8 +12,8 @@ I am a highly motivated and adaptable full-stack web developer specializing in J
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jane-odhiambo-45b1601b9)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/Janejunell777)
 
 
 ## :hammer_and_wrench: Myskills
@@ -33,7 +37,9 @@ I am a highly motivated and adaptable full-stack web developer specializing in J
 
 
 ## :zap: GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Janespot&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Janespot&theme=tokyonight)
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Janespot&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true)
 
 ---
 
