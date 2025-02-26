@@ -36,11 +36,6 @@ I am a highly motivated and adaptable full-stack web developer specializing in J
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janespot&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
 
 
-## :zap: GitHub Activity
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Janespot&theme=tokyonight)
-
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Janespot&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true)
-
 ---
 
 ### Fun Fact: 🎉
