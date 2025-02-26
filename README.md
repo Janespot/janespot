@@ -20,7 +20,4 @@ I am a highly motivated and adaptable full-stack web developer specializing in J
 
 
 ## :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janespot&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&langs_count=5&theme=tokyonight)]()
