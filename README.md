@@ -1,7 +1,7 @@
 # Hi there! I'm Jane Odhiambo 👋
 
 <div align="center">
-  <img src="coding.gif" alt="Black Female Developer" width="500"/>
+  <img src="coding.gif" alt="Black Female Developer" width="100%" height="auto" />
 </div>
 
 
