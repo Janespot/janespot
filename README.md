@@ -73,16 +73,10 @@
 - **Technologies:** HTML, CSS, JavaScript.
 - **Repository:** [janespot.github.io](https://github.com/Janespot/janespot.github.io)
 
-### 🛒 **E-Commerce Platform**
-
-- **Description:** Built a secure and scalable e-commerce platform with user authentication and payment integration.
-- **Technologies:** React, Next.js, Laravel, MySQL.
-- **Repository:** [E-Voting-System](https://github.com/Janespot/E-Voting-System)
-
 ### 🧠 **Machine Learning Tutorials**
 
-- **Description:** Created tutorials and projects to get started with Machine Learning concepts.
-- **Technologies:** Python, Jupyter Notebooks.
+- **Description:** Getting started with Machine Learning concepts.
+- **Technologies:** Python, TensorflowJS.
 - **Repository:** [machine-learning](https://github.com/Janespot/machine-learning)
 
 
@@ -90,7 +84,7 @@
 
 I love coding because it allows me to solve real-world problems while continuously learning and evolving! 🚀
 
-
+<br />
 
 ⭐ If you liked my profile, don't forget to give it a star! ⭐
 
