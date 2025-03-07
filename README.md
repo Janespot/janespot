@@ -36,6 +36,7 @@
 ---
 
 ## 🛠 Tech Stack
+<div align="center">
 
 ### **Frontend**
 
@@ -46,6 +47,10 @@
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 
+</div>
+
+<div align="center">
+
 ### **Backend**
 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
@@ -55,12 +60,17 @@
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
+</div>
+
+<div align="center">
+  
 ### **Version Control & Tools**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
