@@ -45,7 +45,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40px"/>
@@ -59,8 +58,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janespot&theme=tokyonight" alt="GitHub Streak"/>
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Janespot&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&layout=compact&theme=tokyonight" alt="Top Languages"/>
