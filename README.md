@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=Full-Stack+Web+Developer;Passionate+Problem+Solver;JavaScript+%7C+PHP+%7C+React+%7C+Next.js+%7C+Laravel;Always+Learning+New+Technologies">
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -17,14 +17,14 @@
 - Passionate about **continuous learning** and staying updated with the latest technology trends.
 - Enjoys the **problem-solving** aspect of coding and tackling challenges.
 
----
+
 
 ## 🎓 Education & Certifications
 
 - **BSc. Mathematics and Computer Science** (Applied Mathematics Major) from the **Technical University of Mombasa**.
 - **Cyber Shujaa Alumni** (Digital Forensics).
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -33,7 +33,7 @@
   <a href="https://x.com/Janejunell777"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
 
----
+
 
 ## 🚀 My Skills  
 <div align="center">
@@ -54,7 +54,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" height="40px"/>
 
 </div>
----
+
 
 ## 📊 GitHub Stats
 
@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janespot&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
+
 
 ## 📌 Featured Projects
 
@@ -88,7 +88,6 @@
 - **Technologies:** Python, Jupyter Notebooks.
 - **Repository:** [machine-learning](https://github.com/Janespot/machine-learning)
 
-<hr />
 
 ## 💡 Fun Fact
 
